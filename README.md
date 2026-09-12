@@ -27,7 +27,4 @@
 - **Description:** A single-file custom web template built with industrial styling, responsive navigation, and modern UI design for a textile enterprise.
 - **Tech Stack:** HTML5, CSS3, JavaScript
 
----
 
-### 📊 GitHub Stats
-[![Dakshraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parmardakshraj8-hash&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
